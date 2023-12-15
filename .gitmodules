@@ -1,0 +1,60 @@
+[submodule "01"]
+	path = 01
+	url = https://github.com/beesman93/Advent2023_1
+	branch = master
+[submodule "02"]
+	path = 02
+	url = https://github.com/beesman93/Advent2023_2
+	branch = master
+[submodule "03"]
+	path = 03
+	url = https://github.com/beesman93/Advent2023_3
+	branch = master
+[submodule "04"]
+	path = 04
+	url = https://github.com/beesman93/Advent2023_4
+	branch = master
+[submodule "05"]
+	path = 05
+	url = https://github.com/beesman93/Advent2023_5
+	branch = master
+[submodule "06"]
+	path = 06
+	url = https://github.com/beesman93/Advent2023_6
+	branch = master
+[submodule "07"]
+	path = 07
+	url = https://github.com/beesman93/Advent2023_7
+	branch = master
+[submodule "08"]
+	path = 08
+	url = https://github.com/beesman93/Advent2023_8
+	branch = master
+[submodule "09"]
+	path = 09
+	url = https://github.com/beesman93/Advent2023_9
+	branch = master
+[submodule "10"]
+	path = 10
+	url = https://github.com/beesman93/Advent2023_10
+	branch = master
+[submodule "11"]
+	path = 11
+	url = https://github.com/beesman93/Advent2023_11
+	branch = master
+[submodule "12"]
+	path = 12
+	url = https://github.com/beesman93/Advent2023_12
+	branch = master
+[submodule "13"]
+	path = 13
+	url = https://github.com/beesman93/Advent2023_13
+	branch = master
+[submodule "14"]
+	path = 14
+	url = https://github.com/beesman93/Advent2023_14
+	branch = master
+[submodule "15"]
+	path = 15
+	url = https://github.com/beesman93/Advent2023_15
+	branch = master
