@@ -66,3 +66,7 @@
 	path = 17
 	url = https://github.com/beesman93/Advent2023_17
 	branch = master
+[submodule "18"]
+	path = 18
+	url = https://github.com/beesman93/Advent2023_18
+	branch = master
